@@ -1,10 +1,3 @@
-# /// script
-# dependencies = [
-#   "typer",
-# ]
-# ///
-
-
 import os
 
 import typer
