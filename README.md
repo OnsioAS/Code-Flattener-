@@ -100,14 +100,6 @@ The tool uses:
    - Use ignore patterns for `node_modules`, `venv`, etc.
    - Output to file instead of console for better performance
 
-## Contributing
-
-Contributions welcome! To participate:
-
-1. Fork the repository
-2. Create your feature branch
-3. Submit a pull request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
